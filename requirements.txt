@@ -1,8 +1,9 @@
-streamlit 1.51.0
-pandas 2.3.3
-numpy 1.26.4
-scikit-learn 1.7.2
-scikeras 0.13.0
-matplotlib 3.10.7
-tensorboard 2.15.0
+
+streamlit==1.51.0
+pandas==2.3.3
+numpy==1.26.4
+scikit-learn
+scikeras
+matplotlib==3.10.7
+tensorboard==2.15.0
 tensorflow-cpu==2.15.0
